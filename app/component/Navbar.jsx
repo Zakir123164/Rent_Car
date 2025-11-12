@@ -20,7 +20,7 @@ const Navbar = () => {
             </ul>
         </div>
         <div className="navIcon flex gap-[9px] items-center">
-          <div className='text-[#F1BC00]'>
+          <div className='text-[#F1BC00] text-[30px]'>
             <FaUserCircle/>
             </div>
            <h2><Link href={"/sign In"}>Sign In</Link></h2>
