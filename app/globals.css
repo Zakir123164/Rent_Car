@@ -4,3 +4,11 @@
   margin-inline: auto;
   padding-inline: 2rem;
 }
+
+
+.bnnerImage{
+  background: url('../public/banner\ lambo\ 1.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
