@@ -5,7 +5,7 @@ const Banner = () => {
     <>
        <section id='banner w-[1448px] h-[641px]'>
          <div className="bannerBg absolute w-full h-[600px] bg-[#c4c4c4]">
-         <div className="banerImage relative w-[1440px] h-[641px] bg-cover bg-center bg-no-repeat mt-[41px]">
+         <div className="banerImage relative mt-[41px]">
             {/* <img src="/banner lambo 1.png" alt="" /> */}
            <div className="bannerPart float-end mt-[258px] mr-[42px]">
             <h2 className='font-Dm font-normal text-[32px] text-[#000000] w-[380px] mb-[18px]'>safer ,faster and comfortable</h2>
